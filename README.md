@@ -10,7 +10,7 @@
 ## Installation
 ### From release
 
-Download <a href="https://github.com/falcon-oliver/Chip8-interpreter/releases/download/1.0/app.jar">here</a>
+Download <a href="https://github.com/falcon-oliver/jchip8interpreter/releases/download/1.0/app.jar">here</a>
 
 ```bash
 java -jar app.jar
