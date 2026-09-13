@@ -26,7 +26,7 @@ java -jar app.jar
 
 ## From source
 ```bash
-git clone https://github.com/0xRobinman/Chip8-interpreter
+git clone https://github.com/falcon-oliver/jchip8interpreter.git
 cd Chip8-interpreter
 gradle build
 gradle run
